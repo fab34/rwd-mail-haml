@@ -1,0 +1,1 @@
+# Simple responsive email template in HAML.
