@@ -1,1 +1,1 @@
-# Simple responsive email template in HAML.
+# Responsive email template in HAML.
